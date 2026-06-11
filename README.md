@@ -1,2 +1,2 @@
-# Conformal-Toolpath-for-Continuous-Direct-Ink-Writing-on-Unstructured-Surface-Filling
-open source data of Conformal Toolpath for Continuous Direct Ink Writing on Unstructured Surface Filling
+# Conformal Toolpath in Direct Ink Writing for Continuous Filament Filling on Unstructured Surface
+open source data of Conformal Toolpath in Direct Ink Writing for Continuous Filament Filling on Unstructured Surface
